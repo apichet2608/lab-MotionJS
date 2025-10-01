@@ -7,6 +7,7 @@ import DynamicNumber from "@/components/motion/Event/DynamicNumber";
 import NumberCounter from "@/components/motion/Event/NumberCounter";
 import SliderWithBubble from "@/components/motion/Event/SliderWithBubble";
 import SliderWithBubbleV2 from "@/components/motion/Event/SliderWithBubbleV2";
+
 export default function Home() {
   return (
     <main className="grid gap-6 p-4">
